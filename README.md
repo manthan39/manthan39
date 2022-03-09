@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manthan Bhatiya
-- 👀 I’m interested in Automation Testing.
-- 🌱 I’m currently learning Devoops.
+- 👀 I love to automate the manual task with the Selenium, Appium, RESTAssured, Espresso, XCUITest, Playwright. 
+- 🌱 I’m currently learning Cloud computing, Kafka, Elastic Search, CI/CD pipeline maintainance.
 - 💞️ I’m looking to collaborate on youtube.
 - 📫 How to reach me bhatiyamanthan@gmail.com
 
